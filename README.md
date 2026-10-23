@@ -4,7 +4,7 @@
 This project builds an end-to-end Machine Learning pipeline using a Random Forest Classifier to predict customer credit scores (Good, Standard, Poor) based on financial behavior and loan characteristics.
 
 ## 📁 Repository Structure
-- `dataset-2.csv`: The dataset used for training and testing.
+- `dataset-2.csv`:`: [Download Dataset from Google Drive] (https://drive.google.com/file/d/1aI4mihwhjNikRc5NP955bZ6EPdcQKaBy/view?usp=sharing )   The dataset used for training and testing.
 - `Paisabazaar (2).ipynb`: Complete Google Colab notebook containing data cleaning, EDA, model training, cross-validation, and hyperparameter tuning.
 - `Paisabazaar Credit Score Classification Presentation`: The final presentation deck.
 
